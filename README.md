@@ -1,1 +1,1 @@
-THis is Stefan's first Git Project!
+This is Stefan's first Git Project!
